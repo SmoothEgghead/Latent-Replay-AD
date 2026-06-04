@@ -1,0 +1,14 @@
+training:
+  model: "Autoencoder"
+  criterion: "MSE"
+  optimizer: "Adam"
+  epochs: 5
+  learning_rate: 0.001
+  batch_size: 16
+
+model:
+  Autoencoder:
+    hidden_neurons: 16 
+
+meta:
+  data_save_path: "mvtec/"
