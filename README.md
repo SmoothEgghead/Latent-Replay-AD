@@ -120,6 +120,8 @@ Everything else runs unchanged.
 
 ## References
 
+- Project advised by **Zhuwei Qin**, Professor of Computer Engineering,
+  San Francisco State University.
 - Pellegrini et al., *Latent Replay for Real-Time Continual Learning*, IROS 2020.
 - Bergmann et al., *MVTec AD — A Comprehensive Real-World Dataset for
   Unsupervised Anomaly Detection*, CVPR 2019.
