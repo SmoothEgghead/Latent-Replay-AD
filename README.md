@@ -3,7 +3,7 @@
 A convolutional autoencoder that learns to flag visual defects from "good"
 images only, with **latent replay** so it can keep learning new product
 categories without forgetting old ones — and runs end-to-end on a Raspberry
-Pi 5 (2 GB).
+Pi 5 (2 GB). README was written by Claude after reading the project paper and code.
 
 ![Hazelnut AUC across training rounds](results/auc_hazelnut_focus.png)
 
